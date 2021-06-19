@@ -3,10 +3,12 @@ import React from "react";
 function Article() {
   return (
     <div>
-      {/* uncomment the line below to pass the test */}
-      {/* please pass this test */}
+      <div>Dear Reader: Bjarne Stroustrup has the perfect lecture oration.</div>
+      {'please pass this test '}
     </div>
   );
 }
 
-export default Article;
+
+
+export default  Article  ;
